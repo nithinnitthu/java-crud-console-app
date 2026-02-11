@@ -1,0 +1,5 @@
+java-crud-console-app
+│
+├── Main.java
+├── User.java
+└── README.md
